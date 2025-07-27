@@ -1427,8 +1427,11 @@ textarea.form-input::-webkit-resizer { display: none; }
     border-radius: 20px;
   }
 
-  .testimonials-avatar-box img { width: 80px; }
-
+  .testimonials-avatar-box img {
+  width: 80px;
+  border-radius: 20px;
+  }
+	
   .testimonials-item-title {
     margin-bottom: 10px;
     margin-left: 95px;
