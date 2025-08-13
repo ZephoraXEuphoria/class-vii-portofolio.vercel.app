@@ -759,7 +759,7 @@ main {
 
 .clients-item img:hover {
   filter: grayscale(0);
-  transform: scale(1.05); /* gambar sedikit membesar saat hover */
+  transform: scale(1.12); /* gambar sedikit membesar saat hover */
 }
 
 
